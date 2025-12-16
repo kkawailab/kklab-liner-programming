@@ -156,3 +156,13 @@ kklab-liner-programming/
 - [JuMP Documentation](https://jump.dev/JuMP.jl/stable/)
 - [HiGHS Documentation](https://highs.dev/)
 - [JuMP Tutorials](https://jump.dev/JuMP.jl/stable/tutorials/)
+
+## 更新履歴
+
+| 日付 | 内容 |
+|------|------|
+| 2025-12-17 | 初版リリース：Pythonスクリプト版チュートリアル（第1章〜第5章）を追加 |
+| 2025-12-17 | Python Jupyter Notebook版を追加 |
+| 2025-12-17 | Julia Jupyter Notebook版（JuMP, HiGHS使用）を追加 |
+| 2025-12-17 | CLAUDE.md を追加 |
+| 2025-12-17 | Notebookの実行結果を保存 |
