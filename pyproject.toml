@@ -1,0 +1,10 @@
+[project]
+name = "kklab-liner-programming"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "scipy>=1.14.0",
+    "pulp>=2.9.0",
+]
